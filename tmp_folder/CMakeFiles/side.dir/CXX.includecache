@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/grum/project2/folder/main/main.h
+
+/home/grum/project2/folder/side.cpp
+iostream
+-
+fstream
+-
+main.h
+/home/grum/project2/folder/main.h
+

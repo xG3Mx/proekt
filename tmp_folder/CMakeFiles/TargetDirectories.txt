@@ -1,0 +1,9 @@
+/home/grum/project2/tmp_folder/CMakeFiles/rebuild_cache.dir
+/home/grum/project2/tmp_folder/CMakeFiles/edit_cache.dir
+/home/grum/project2/tmp_folder/CMakeFiles/side.dir
+/home/grum/project2/tmp_folder/main/CMakeFiles/rebuild_cache.dir
+/home/grum/project2/tmp_folder/main/CMakeFiles/edit_cache.dir
+/home/grum/project2/tmp_folder/main/CMakeFiles/main.dir
+/home/grum/project2/tmp_folder/main/less/CMakeFiles/rebuild_cache.dir
+/home/grum/project2/tmp_folder/main/less/CMakeFiles/edit_cache.dir
+/home/grum/project2/tmp_folder/main/less/CMakeFiles/less.dir

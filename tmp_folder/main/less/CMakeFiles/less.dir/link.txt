@@ -1,0 +1,2 @@
+/usr/bin/ar qc libless.a CMakeFiles/less.dir/less.cpp.o
+/usr/bin/ranlib libless.a
