@@ -1,10 +1,8 @@
-cmake_minimum_required(VERSION 2.8) # Проверка версии CMake.
-									# Если версия установленой программы
-									# старее указаной, произайдёт аварийный выход.
+cmake_minimum_required(VERSION 2.8) 
 
-project(less)				# Название проекта
+project(less)				
 
-set(SOURCE_LIB less.cpp)		# Установка переменной со списком исходников
+set(SOURCE_LIB less.cpp)		
 
-add_library(less STATIC ${SOURCE_LIB})# Создание статической библиотеки
+add_library(less STATIC ${SOURCE_LIB})
  
