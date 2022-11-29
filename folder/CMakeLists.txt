@@ -1,15 +1,13 @@
-cmake_minimum_required(VERSION 2.8) # Проверка версии CMake.
-									# Если версия установленой программы
-									# старее указаной, произайдёт аварийный выход.
+cmake_minimum_required(VERSION 2.8) 
 
-project(grgr)				# Название проекта
+project(grgr)			
 
-set(SOURCE_EXE side.cpp)			# Установка переменной со списком исходников
+set(SOURCE_EXE side.cpp)		
 
-include_directories(main)			# Расположение заголовочных файлов
+include_directories(main)	
 
-add_executable(side ${SOURCE_EXE})	# Создает исполняемый файл с именем main
+add_executable(side ${SOURCE_EXE})	
 
-add_subdirectory(main)				# Добавление подпроекта, указывается имя дирректории
+add_subdirectory(main)				
 
-target_link_libraries(side main)		# Линковка программы с библиотекой
+target_link_libraries(side main)		
